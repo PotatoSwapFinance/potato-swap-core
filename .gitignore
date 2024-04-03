@@ -2,3 +2,23 @@ node_modules/
 build/
 yarn.lock
 
+artifacts/contracts/PotatoFactory.sol/PotatoFactory.json
+.env
+
+node_modules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+.DS_Store
+scripts/deploy.js
+hardhat.config.js
